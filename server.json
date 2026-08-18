@@ -2,7 +2,7 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.gorp405/vett-compliance",
   "title": "Vett Compliance MCP Server",
-  "description": "Read-only compliance screening tools: sanctions/PEP/watchlist screening across 12 global databases, crypto wallet screening, product recalls, US business lookup, and federal contract search. Free tier: 20 calls/hour per IP, no auth required.",
+  "description": "Sanctions, PEP, watchlist, recall, business, and contract screening. Free tier, no auth required.",
   "version": "1.0.0",
   "repository": {
     "url": "https://github.com/Gorp405/VettMCP",
