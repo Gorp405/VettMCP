@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.gorp405/vett-compliance",
+  "name": "io.github.Gorp405/vett-compliance",
   "title": "Vett Compliance MCP Server",
   "description": "Sanctions, PEP, watchlist, recall, business, and contract screening. Free tier, no auth required.",
   "version": "1.0.0",
